@@ -1,0 +1,507 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "9727e6e83e71643dd6f9d4c61054da17"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "e5909a88ba1158a79ba2dbf82d6b2d86"
+    },
+    {
+        "path": "/assets/css/fontawesome-all.min.css",
+        "type": "file",
+        "md5": "dbf9d822cefe851ba6f66e1ad57e8987"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "1f37152b151c9c4afdc4a61f80250faf"
+    },
+    {
+        "path": "/assets/css/noscript.css",
+        "type": "file",
+        "md5": "6228c7eee614cd200a2cad8333b439fa"
+    },
+    {
+        "path": "/assets/css/photoswipe.css",
+        "type": "file",
+        "md5": "357f87f4e9502a5318d89e8e76e0a344"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "ac3f407b0c1f1aeda11a54119a45cb9c"
+    },
+    {
+        "path": "assets/images",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/images/overlay.png",
+        "type": "file",
+        "md5": "34aca8cf1dcd5a4077c26c80950d00c6"
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/breakpoints.min.js",
+        "type": "file",
+        "md5": "81a479eb099e3b187613943b085923b8"
+    },
+    {
+        "path": "/assets/js/browser.min.js",
+        "type": "file",
+        "md5": "c07298dd19048a8a69ad97e754dfe8d0"
+    },
+    {
+        "path": "/assets/js/jquery.min.js",
+        "type": "file",
+        "md5": "7c14a783dfeb3d238ccd3edd840d82ee"
+    },
+    {
+        "path": "/assets/js/jquery.scrollex.min.js",
+        "type": "file",
+        "md5": "f89065e3d988006af9791b44561d7c90"
+    },
+    {
+        "path": "/assets/js/jquery.scrolly.min.js",
+        "type": "file",
+        "md5": "1ed5a78bde1476875a40f6b9ff44fc14"
+    },
+    {
+        "path": "/assets/js/main.js",
+        "type": "file",
+        "md5": "41b8842b07b5376db6ae1da66317b0a9"
+    },
+    {
+        "path": "/assets/js/main.min.js",
+        "type": "file",
+        "md5": "149e72e3ae18744a477b480b19e0c6da"
+    },
+    {
+        "path": "/assets/js/photoswipe-ui-default.min.js",
+        "type": "file",
+        "md5": "d067f0883540b1ddda0e2c9ad1b14260"
+    },
+    {
+        "path": "/assets/js/photoswipe.min.js",
+        "type": "file",
+        "md5": "017385b552f7e0d979e2e2fe6f324015"
+    },
+    {
+        "path": "/assets/js/util.js",
+        "type": "file",
+        "md5": "fd2716a7b68ce7748c9676787b61db43"
+    },
+    {
+        "path": "/assets/js/util.min.js",
+        "type": "file",
+        "md5": "4201a626f8c9b614a663b3a1d7d82615"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/gallery-icons-dark.svg",
+        "type": "file",
+        "md5": "452594838e74a3df91ad4a20cf53c831"
+    },
+    {
+        "path": "/assets/svg/gallery-icons-light.svg",
+        "type": "file",
+        "md5": "ca77079e0fe8270a7447d7f1f5d543b0"
+    },
+    {
+        "path": "assets/webfonts",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/webfonts/fa-brands-400.eot",
+        "type": "file",
+        "md5": "03783c5172ee1ad128c576bf88fac168"
+    },
+    {
+        "path": "/assets/webfonts/fa-brands-400.svg",
+        "type": "file",
+        "md5": "1e146a9d2141d39e412259812a6bdb94"
+    },
+    {
+        "path": "/assets/webfonts/fa-brands-400.ttf",
+        "type": "file",
+        "md5": "ed2b8bf117160466ba6220a8f1da54a4"
+    },
+    {
+        "path": "/assets/webfonts/fa-brands-400.woff",
+        "type": "file",
+        "md5": "fe9d62e0d16a333a20e63c3e7595f82e"
+    },
+    {
+        "path": "/assets/webfonts/fa-brands-400.woff2",
+        "type": "file",
+        "md5": "7559b3774a0625e8ca6c0160f8f6cfd8"
+    },
+    {
+        "path": "/assets/webfonts/fa-regular-400.eot",
+        "type": "file",
+        "md5": "fc9c63c8224fb341fc933641cbdd12ef"
+    },
+    {
+        "path": "/assets/webfonts/fa-regular-400.svg",
+        "type": "file",
+        "md5": "0f9cc91caae1d6270ca9565e02bcd5e1"
+    },
+    {
+        "path": "/assets/webfonts/fa-regular-400.ttf",
+        "type": "file",
+        "md5": "59215032a4397507b80e5625dc323de3"
+    },
+    {
+        "path": "/assets/webfonts/fa-regular-400.woff",
+        "type": "file",
+        "md5": "e5770f9863963fb576942e25214a226d"
+    },
+    {
+        "path": "/assets/webfonts/fa-regular-400.woff2",
+        "type": "file",
+        "md5": "e07d9e40b26048d9abe2ef966cd6e263"
+    },
+    {
+        "path": "/assets/webfonts/fa-solid-900.eot",
+        "type": "file",
+        "md5": "ef3df98419d143d9617fe163bf4edc0b"
+    },
+    {
+        "path": "/assets/webfonts/fa-solid-900.svg",
+        "type": "file",
+        "md5": "6c284a6deef590e5494e13c1b7aa387c"
+    },
+    {
+        "path": "/assets/webfonts/fa-solid-900.ttf",
+        "type": "file",
+        "md5": "acf50f59802f20d8b45220eaae532a1c"
+    },
+    {
+        "path": "/assets/webfonts/fa-solid-900.woff",
+        "type": "file",
+        "md5": "4bced7c4c0d61d4f988629bb8ae80b8b"
+    },
+    {
+        "path": "/assets/webfonts/fa-solid-900.woff2",
+        "type": "file",
+        "md5": "b5cf8ae26748570d8fb95a47f46b69e1"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/peter-podgorski",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/peter-podgorski/index.html",
+        "type": "file",
+        "md5": "fe3f766ffcea813058e17b06ec0c0b13"
+    },
+    {
+        "path": "authors/peter-podgorski/page",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/peter-podgorski/page/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/peter-podgorski/page/2/index.html",
+        "type": "file",
+        "md5": "20df27b6ccdb7b8ee2bdaa3b393f9eaf"
+    },
+    {
+        "path": "authors/peter-podgorski/page/3",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/peter-podgorski/page/3/index.html",
+        "type": "file",
+        "md5": "24828631cb90d3f2790b05751881e063"
+    },
+    {
+        "path": "buffalo-buffalo-buffalo",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/buffalo-buffalo-buffalo/index.html",
+        "type": "file",
+        "md5": "ec8b35bc0153f6a03be7982cc3db42db"
+    },
+    {
+        "path": "choose-your-complexity-wisely",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/choose-your-complexity-wisely/index.html",
+        "type": "file",
+        "md5": "169dcdac6afd12d1f9207fb53eea1082"
+    },
+    {
+        "path": "code-language-communication",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/code-language-communication/index.html",
+        "type": "file",
+        "md5": "e410bfd9e981ad0cfe0d8e2fe3a6a737"
+    },
+    {
+        "path": "continuous-quality-assurance-through-tdd",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/continuous-quality-assurance-through-tdd/index.html",
+        "type": "file",
+        "md5": "c3485242e9ae3e5b456ea1003319c04a"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "e9cbc809eff3f1a97293830e7e56f460"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/oip-221-3.jpg",
+        "type": "file",
+        "md5": "fcc6bc9706996c92d54b28333957c025"
+    },
+    {
+        "path": "media/website/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/responsive/oip-221-3-2xl.jpg",
+        "type": "file",
+        "md5": "17aad890c9e235610307201e3d467dd4"
+    },
+    {
+        "path": "/media/website/responsive/oip-221-3-lg.jpg",
+        "type": "file",
+        "md5": "16404aa4fdf2cbb3e820754676816722"
+    },
+    {
+        "path": "/media/website/responsive/oip-221-3-md.jpg",
+        "type": "file",
+        "md5": "9054013a05e9af89f89201876ecc3c71"
+    },
+    {
+        "path": "/media/website/responsive/oip-221-3-sm.jpg",
+        "type": "file",
+        "md5": "e7b37795be02e7689a13ed014bd247d1"
+    },
+    {
+        "path": "/media/website/responsive/oip-221-3-xl.jpg",
+        "type": "file",
+        "md5": "5c30bf1c151e3a4107e884ae28b5eb32"
+    },
+    {
+        "path": "/media/website/responsive/oip-221-3-xs.jpg",
+        "type": "file",
+        "md5": "6040cbfd9dd854cbc1ebc6d081694720"
+    },
+    {
+        "path": "more-about-me-2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/more-about-me-2/index.html",
+        "type": "file",
+        "md5": "57e4497dfb83540fc22fcd57ba0dd8c9"
+    },
+    {
+        "path": "page",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "page/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/page/2/index.html",
+        "type": "file",
+        "md5": "a19cf46d4ad4feee81e9a8560932dcd8"
+    },
+    {
+        "path": "page/3",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/page/3/index.html",
+        "type": "file",
+        "md5": "8b89d75e1b10d6a128de9e398a4c1427"
+    },
+    {
+        "path": "pdsa",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/pdsa/index.html",
+        "type": "file",
+        "md5": "7cf046617bb5800834cf72f9d2e9fe04"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "50d8a018e8ae96732c8a2ba663c61d4e"
+    },
+    {
+        "path": "separation-of-what-from-how",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/separation-of-what-from-how/index.html",
+        "type": "file",
+        "md5": "997bdb39e72e345f86e8734a2bdc8cb4"
+    },
+    {
+        "path": "stop-worrying-and-write-tests",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/stop-worrying-and-write-tests/index.html",
+        "type": "file",
+        "md5": "f8332e100b784dde17e1b0074ca43334"
+    },
+    {
+        "path": "story-mapping-forget-computers-exist",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/story-mapping-forget-computers-exist/index.html",
+        "type": "file",
+        "md5": "1cea355c1d6c08628a0c6f7b705859a3"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "tags/foundations",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/foundations/index.html",
+        "type": "file",
+        "md5": "33caeb2c1b0e1c860edff5b3dc7f426c"
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "9d4872d00c803d7dd1c97b1a3155ff20"
+    },
+    {
+        "path": "tags/misconceptions",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/misconceptions/index.html",
+        "type": "file",
+        "md5": "824d335a0ae2fe0f5bf3f69040d79de1"
+    },
+    {
+        "path": "the-debt-metaphor",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/the-debt-metaphor/index.html",
+        "type": "file",
+        "md5": "eb203f1f0293498530f79b5008bbb835"
+    },
+    {
+        "path": "thoughts-on-the-play-the-points-and-the-biggest-lie-in-software",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/thoughts-on-the-play-the-points-and-the-biggest-lie-in-software/index.html",
+        "type": "file",
+        "md5": "e7f0b6ebef410b64a002fd6f34804bd2"
+    },
+    {
+        "path": "unconditional-code-talk-thoughts",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/unconditional-code-talk-thoughts/index.html",
+        "type": "file",
+        "md5": "4f51091f1941ef6e5536887e3f2469c9"
+    },
+    {
+        "path": "words-meanings-and-incentives",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/words-meanings-and-incentives/index.html",
+        "type": "file",
+        "md5": "af3d425ed5ac91bdcd9786dc0b1d5a43"
+    },
+    {
+        "path": "writing-code-is-design",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/writing-code-is-design/index.html",
+        "type": "file",
+        "md5": "35902f2621ba0972c901be7420d4d567"
+    }
+]
