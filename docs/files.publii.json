@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "9727e6e83e71643dd6f9d4c61054da17"
+        "md5": "03694492126a429c5c5a951a8cff9e60"
     },
     {
         "path": "assets",
@@ -42,7 +42,7 @@
     {
         "path": "/assets/css/style.css",
         "type": "file",
-        "md5": "ac3f407b0c1f1aeda11a54119a45cb9c"
+        "md5": "d7345ee9a5567d776f15f161bddf38f7"
     },
     {
         "path": "assets/images",
@@ -222,7 +222,7 @@
     {
         "path": "/authors/peter-podgorski/index.html",
         "type": "file",
-        "md5": "fe3f766ffcea813058e17b06ec0c0b13"
+        "md5": "0942cf8a8e5d12240596975ec428aa22"
     },
     {
         "path": "authors/peter-podgorski/page",
@@ -237,7 +237,7 @@
     {
         "path": "/authors/peter-podgorski/page/2/index.html",
         "type": "file",
-        "md5": "20df27b6ccdb7b8ee2bdaa3b393f9eaf"
+        "md5": "325c6e506af17f4e8f22e466fb259bcd"
     },
     {
         "path": "authors/peter-podgorski/page/3",
@@ -247,7 +247,7 @@
     {
         "path": "/authors/peter-podgorski/page/3/index.html",
         "type": "file",
-        "md5": "24828631cb90d3f2790b05751881e063"
+        "md5": "95ea677ec82aca59871bc588a832fdd9"
     },
     {
         "path": "buffalo-buffalo-buffalo",
@@ -257,7 +257,7 @@
     {
         "path": "/buffalo-buffalo-buffalo/index.html",
         "type": "file",
-        "md5": "ec8b35bc0153f6a03be7982cc3db42db"
+        "md5": "da7dd6ceae04668cb7290827b8b3a1a9"
     },
     {
         "path": "choose-your-complexity-wisely",
@@ -267,7 +267,7 @@
     {
         "path": "/choose-your-complexity-wisely/index.html",
         "type": "file",
-        "md5": "169dcdac6afd12d1f9207fb53eea1082"
+        "md5": "646d23a7b821d5e25bfac65a122759f9"
     },
     {
         "path": "code-language-communication",
@@ -277,7 +277,7 @@
     {
         "path": "/code-language-communication/index.html",
         "type": "file",
-        "md5": "e410bfd9e981ad0cfe0d8e2fe3a6a737"
+        "md5": "61e2a5007be644bc0d8352491d547d61"
     },
     {
         "path": "continuous-quality-assurance-through-tdd",
@@ -287,12 +287,12 @@
     {
         "path": "/continuous-quality-assurance-through-tdd/index.html",
         "type": "file",
-        "md5": "c3485242e9ae3e5b456ea1003319c04a"
+        "md5": "49ce95321721bbab2c3dde3c0f617f67"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "e9cbc809eff3f1a97293830e7e56f460"
+        "md5": "7cf30aef5aa07f8c2918814780b04d3c"
     },
     {
         "path": "media",
@@ -352,7 +352,7 @@
     {
         "path": "/more-about-me-2/index.html",
         "type": "file",
-        "md5": "508d3cf6239626557a17d22f1c6d32e1"
+        "md5": "7aadd15a39bc96adff94831da49e7c50"
     },
     {
         "path": "page",
@@ -367,7 +367,7 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "a19cf46d4ad4feee81e9a8560932dcd8"
+        "md5": "686f1bb7103eb3b451ca6b3fe68ff5dc"
     },
     {
         "path": "page/3",
@@ -377,7 +377,7 @@
     {
         "path": "/page/3/index.html",
         "type": "file",
-        "md5": "8b89d75e1b10d6a128de9e398a4c1427"
+        "md5": "fbce7fe7d6b38d65a279b66f7c491545"
     },
     {
         "path": "pdsa",
@@ -387,7 +387,7 @@
     {
         "path": "/pdsa/index.html",
         "type": "file",
-        "md5": "7cf046617bb5800834cf72f9d2e9fe04"
+        "md5": "580d95beb7a2d548c12ea9ff842d1075"
     },
     {
         "path": "robots.txt",
@@ -402,7 +402,7 @@
     {
         "path": "/separation-of-what-from-how/index.html",
         "type": "file",
-        "md5": "997bdb39e72e345f86e8734a2bdc8cb4"
+        "md5": "52f4373be0619346986dd2a16436a16a"
     },
     {
         "path": "stop-worrying-and-write-tests",
@@ -412,7 +412,7 @@
     {
         "path": "/stop-worrying-and-write-tests/index.html",
         "type": "file",
-        "md5": "f8332e100b784dde17e1b0074ca43334"
+        "md5": "0c754e04c0e85d59b1a3d1652bc71fcd"
     },
     {
         "path": "story-mapping-forget-computers-exist",
@@ -422,7 +422,7 @@
     {
         "path": "/story-mapping-forget-computers-exist/index.html",
         "type": "file",
-        "md5": "1cea355c1d6c08628a0c6f7b705859a3"
+        "md5": "1ea1b304730b421b7a300ab97e8e4fa4"
     },
     {
         "path": "tags",
@@ -437,12 +437,12 @@
     {
         "path": "/tags/foundations/index.html",
         "type": "file",
-        "md5": "33caeb2c1b0e1c860edff5b3dc7f426c"
+        "md5": "cbf92c568e4058df7a6b9c5b8ae41e6f"
     },
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "9d4872d00c803d7dd1c97b1a3155ff20"
+        "md5": "0fec9b850e1ded1cc359ce7ddfd64f45"
     },
     {
         "path": "tags/misconceptions",
@@ -452,7 +452,7 @@
     {
         "path": "/tags/misconceptions/index.html",
         "type": "file",
-        "md5": "824d335a0ae2fe0f5bf3f69040d79de1"
+        "md5": "97e37b4fbe9ee29b53a633bfe8d1a8d6"
     },
     {
         "path": "the-debt-metaphor",
@@ -462,7 +462,7 @@
     {
         "path": "/the-debt-metaphor/index.html",
         "type": "file",
-        "md5": "eb203f1f0293498530f79b5008bbb835"
+        "md5": "2a094feac8b73430ef813d3e0c55de91"
     },
     {
         "path": "thoughts-on-the-play-the-points-and-the-biggest-lie-in-software",
@@ -472,7 +472,7 @@
     {
         "path": "/thoughts-on-the-play-the-points-and-the-biggest-lie-in-software/index.html",
         "type": "file",
-        "md5": "e7f0b6ebef410b64a002fd6f34804bd2"
+        "md5": "b299e1e2bd15a3b69935e26e93febc57"
     },
     {
         "path": "unconditional-code-talk-thoughts",
@@ -482,7 +482,7 @@
     {
         "path": "/unconditional-code-talk-thoughts/index.html",
         "type": "file",
-        "md5": "4f51091f1941ef6e5536887e3f2469c9"
+        "md5": "ca12fca39683ac4cf6950f07996e2332"
     },
     {
         "path": "words-meanings-and-incentives",
@@ -492,7 +492,7 @@
     {
         "path": "/words-meanings-and-incentives/index.html",
         "type": "file",
-        "md5": "af3d425ed5ac91bdcd9786dc0b1d5a43"
+        "md5": "7d7c322c733305bc913d432815c3d2c4"
     },
     {
         "path": "writing-code-is-design",
@@ -502,6 +502,6 @@
     {
         "path": "/writing-code-is-design/index.html",
         "type": "file",
-        "md5": "35902f2621ba0972c901be7420d4d567"
+        "md5": "fe0f16048800ea745a0e5bef6f3496da"
     }
 ]
